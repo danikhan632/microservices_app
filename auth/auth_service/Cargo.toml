@@ -1,0 +1,18 @@
+[package]
+name = "auth_service"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+[dependencies]
+tonic = "0.7"
+prost = "0.10"
+tokio = { version = "1.0", features = ["macros", "rt-multi-thread"] }
+rand = "0.7.3"
+redis = "0.22.1"
+
+[build-dependencies]
+tonic-build = "0.7"

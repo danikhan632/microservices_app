@@ -1,0 +1,11 @@
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/producer/target/debug/deps/libasync_trait-d7b6778a797edf29.so: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/args.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/bound.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/expand.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/lifetime.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/parse.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/receiver.rs
+
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/producer/target/debug/deps/async_trait-d7b6778a797edf29.d: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/args.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/bound.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/expand.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/lifetime.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/parse.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/receiver.rs
+
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/lib.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/args.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/bound.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/expand.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/lifetime.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/parse.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.60/src/receiver.rs:

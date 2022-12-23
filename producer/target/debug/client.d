@@ -1,0 +1,1 @@
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/producer/target/debug/client: /home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/producer/build.rs /home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/producer/src/client.rs /home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/producer/target/debug/build/producer-a411e78d653e41f1/out/payments.rs

@@ -1,0 +1,16 @@
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/auth/auth_service/target/debug/deps/prost_build-0c915c39e602c8d6.rmeta: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ast.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/code_generator.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/extern_paths.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ident.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/message_graph.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/path.rs
+
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/auth/auth_service/target/debug/deps/libprost_build-0c915c39e602c8d6.rlib: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ast.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/code_generator.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/extern_paths.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ident.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/message_graph.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/path.rs
+
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/auth/auth_service/target/debug/deps/prost_build-0c915c39e602c8d6.d: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ast.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/code_generator.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/extern_paths.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ident.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/message_graph.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/path.rs
+
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/lib.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ast.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/code_generator.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/extern_paths.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/ident.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/message_graph.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/src/path.rs:
+
+# env-dep:PROTOC=/home/linuxbrew/.linuxbrew/bin/protoc
+# env-dep:PROTOC_INCLUDE=/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.10.4/third-party/include

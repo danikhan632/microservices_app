@@ -1,0 +1,11 @@
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/auth/auth_service/target/debug/deps/libprost_derive-71912ac5ed5fc734.so: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/mod.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/group.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/map.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/message.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/oneof.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/scalar.rs
+
+/home/lenovo/Documents/Code/new_svelete/kafka_py_ex/fornt/auth/auth_service/target/debug/deps/prost_derive-71912ac5ed5fc734.d: /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/lib.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/mod.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/group.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/map.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/message.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/oneof.rs /home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/scalar.rs
+
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/lib.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/mod.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/group.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/map.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/message.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/oneof.rs:
+/home/lenovo/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-derive-0.10.1/src/field/scalar.rs:

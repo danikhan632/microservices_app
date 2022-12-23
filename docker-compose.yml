@@ -1,0 +1,58 @@
+version: "3.2"
+
+# list of containers to be run
+services:
+  rabbit_mq:
+    # plugin for web dashboard
+    image: rabbitmq:3.8-rc-management
+    container_name: rabbit_mq
+    ports:
+        - '5673:5672'
+        - '15673:15672'
+    volumes:
+      - rabbit_mqdata:/usr/share/rabbitmq/data
+
+  producer:
+    build: producer
+    depends_on:
+        - rabbit_mq
+    environment:
+        AMQP_URL: 'amqp://rabbit_mq?connection_attempts=10&retry_delay=10'
+    volumes:
+      - ./producer:/usr/src/app/producer
+
+  consumer1:
+    build: consumer
+    depends_on:
+        - rabbit_mq
+    environment:
+        AMQP_URL: 'amqp://rabbit_mq?connection_attempts=10&retry_delay=10'
+    volumes:
+      - ./consumer:/usr/src/app/consumer
+volumes:
+    rabbit_mqdata:
+      driver: local
+
+
+
+#   producer:
+#     build: ./producer
+#     networks:
+#       - my-network-name
+#     depends_on:
+#       # - rabbitmq
+#       rabbitmq:
+#         condition: service_healthy
+    
+
+#   consumer:
+#     build: ./consumer
+#     networks:
+#       - my-network-name
+#     depends_on:
+#       # - rabbitmq
+#       rabbitmq:
+#         condition: service_healthy
+# networks:
+#   my-network-name:
+#     driver: bridge
